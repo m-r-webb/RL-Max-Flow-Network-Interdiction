@@ -1,3 +1,4 @@
+# Purpose: Determines the heuristic solution to the stochastic multiple attempt network interdiction problem
 # Import all required packages
 import pandas as pd                   # For data manipulation and analysis
 import gurobipy as grb                # Gurobi optimization library for solving mathematical models
