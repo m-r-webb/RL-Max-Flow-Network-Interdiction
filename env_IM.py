@@ -1,7 +1,4 @@
-#Ver F: Scalable Environment to 30x30 Grid (900 nodes, 1740 arcs)
-#Ver E: Add departure node and arrival node to state space
-#Ver D: Normalized Reward by initial budget
-#Ver C: Baseline Implementation of Environment with Full State Space - update initial budget
+#Purpose: Creates the Gym network for the multiple interdiction attempt network iterdiction problem from a gridded graph of a designated size.
 
 # Import all required packages
 import os
