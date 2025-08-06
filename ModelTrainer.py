@@ -1,6 +1,4 @@
-#Simple Features Extractor PPO_EX003GCN - Edge to 128 embedding
-#LSTM Features Extractor PPO_EX003LSTM - Edge to 128 embedding with budget in LSTM
-#LSTMv2 Features Extractor - PPO_EX003LSTMv2 - Edge to 128 embedding in LSTM with budget cell state
+#Purpose: Trains a RL Agent on a designated graph size for a given environment
 
 ##Inputs
 graphName = "G5x5"
